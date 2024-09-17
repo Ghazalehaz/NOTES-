@@ -13,10 +13,11 @@
 
 ### Links 
 * [Learn Georgebrown.ca ](https://Learn.georgebrown.ca)
-* [STU-VIEW portal](https://pages.stuview.georgebrown.ca)
+* [STU-VIEW ](https://Learn.georgebrown.ca)
 * [Osap Ontario.ca](https://Osap.Ontario.ca)
 
   ### Experiments
-  :smiley:
-  :heart:
-  :relaxed:
+ * :smiley:
+ *  :heart:
+ *  :relaxed:
+ *  :wave:
