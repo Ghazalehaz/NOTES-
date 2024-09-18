@@ -13,7 +13,7 @@
 
 ### Links 
 * [Learn Georgebrown.ca ](https://Learn.georgebrown.ca)
-* [STU-VIEW ](https://Learn.georgebrown.ca)
+* [STU-VIEW ](https://stuvie.georgebrown.ca)
 * [Osap Ontario.ca](https://Osap.Ontario.ca)
 
   ### Experiments
