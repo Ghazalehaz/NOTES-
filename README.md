@@ -14,7 +14,7 @@
 ### Links 
 * [Learn Georgebrown ](https://Learn.georgebrown.ca)
 * [STU-VIEW ](https://stuview.georgebrown.ca)
-* [ Atklass](https://Atklass.page.com)
+* [ Atklass](https://Atklass.com)
 
   ### Experiments
  * :smiley:
