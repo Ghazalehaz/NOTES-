@@ -12,9 +12,9 @@
 * )(Right parenthesis)
 
 ### Links 
-* [Learn Georgebrown.ca ](https://Learn.georgebrown.ca)
+* [Learn Georgebrown ](https://Learn.georgebrown.ca)
 * [STU-VIEW ](https://stuview.georgebrown.ca)
-* [Osap Ontario.ca](https://Osap.Ontario.ca)
+* [ Ontario.ca](https://Osap.gov.Ontario.ca)
 
   ### Experiments
  * :smiley:
