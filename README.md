@@ -21,3 +21,6 @@
  *  :heart:
  *  :relaxed:
  *  :wave:
+ ###  - Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
